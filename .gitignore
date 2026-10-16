@@ -1,0 +1,14 @@
+# Secrets: tuyệt đối không commit
+.env
+
+# Node
+node_modules/
+
+# Flutter
+.dart_tool/
+build/
+
+# Hệ điều hành / editor
+.DS_Store
+Thumbs.db
+.idea/
